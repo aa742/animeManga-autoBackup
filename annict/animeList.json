@@ -1,0 +1,2675 @@
+{
+  "data": {
+    "viewer": {
+      "username": "Guan",
+      "name": "Guan",
+      "annictId": 67149,
+      "watchingCount": 4,
+      "watchedCount": 148,
+      "wannaWatchCount": 14,
+      "onHoldCount": 0,
+      "stopWatchingCount": 0,
+      "recordsCount": 0,
+      "libraryEntries": {
+        "nodes": [
+          {
+            "work": {
+              "id": "V29yay02Njg=",
+              "annictId": 668,
+              "title": "けいおん！",
+              "titleEn": "K-On!",
+              "titleKana": "けいおん",
+              "titleRo": "K-On!",
+              "malAnimeId": "5680",
+              "syobocalTid": 1597,
+              "seasonYear": 2009,
+              "seasonName": "SPRING",
+              "episodesCount": 15,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02Njk=",
+              "annictId": 669,
+              "title": "けいおん！！",
+              "titleEn": "K-On!!",
+              "titleKana": "けいおん",
+              "titleRo": "K-On!!",
+              "malAnimeId": "7791",
+              "syobocalTid": 1882,
+              "seasonYear": 2010,
+              "seasonName": "SPRING",
+              "episodesCount": 40,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0zMjk2",
+              "annictId": 3296,
+              "title": "映画 けいおん！",
+              "titleEn": "K-On! Movie",
+              "titleKana": "",
+              "titleRo": "K-On! Movie",
+              "malAnimeId": "9617",
+              "syobocalTid": 2336,
+              "seasonYear": 2011,
+              "seasonName": "AUTUMN",
+              "episodesCount": 1,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay04NTM=",
+              "annictId": 853,
+              "title": "C3 -シーキューブ-",
+              "titleEn": "C3 - CubexCursedxCurious",
+              "titleKana": "しーきゅーぶ",
+              "titleRo": "",
+              "malAnimeId": "10578",
+              "syobocalTid": 2274,
+              "seasonYear": 2011,
+              "seasonName": "AUTUMN",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNDgzMQ==",
+              "annictId": 14831,
+              "title": "グノーシア",
+              "titleEn": "GNOSIA",
+              "titleKana": "ぐのーしあ",
+              "titleRo": "",
+              "malAnimeId": "60427",
+              "syobocalTid": 7604,
+              "seasonYear": 2025,
+              "seasonName": "AUTUMN",
+              "episodesCount": 21,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0zNjAx",
+              "annictId": 3601,
+              "title": "花咲くいろは HOME SWEET HOME",
+              "titleEn": "Hanasaku Iroha Movie: Home Sweet Home",
+              "titleKana": "はなさくいろはほーむすいーとほーむ",
+              "titleRo": "",
+              "malAnimeId": "14175",
+              "syobocalTid": 3460,
+              "seasonYear": 2013,
+              "seasonName": "SPRING",
+              "episodesCount": 1,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MzA4",
+              "annictId": 4308,
+              "title": "響け！ユーフォニアム",
+              "titleEn": "Hibike! Euphonium",
+              "titleKana": "ひびけゆーふぉにあむ",
+              "titleRo": "Hibike! Euphonium",
+              "malAnimeId": "27989",
+              "syobocalTid": 3687,
+              "seasonYear": 2015,
+              "seasonName": "SPRING",
+              "episodesCount": 14,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00ODI2",
+              "annictId": 4826,
+              "title": "響け！ユーフォニアム2",
+              "titleEn": "Hibike! Euphonium 2",
+              "titleKana": "ひびけ！ゆーふぉにあむ2",
+              "titleRo": "Hibike! Euphonium 2 Specials",
+              "malAnimeId": "31988",
+              "syobocalTid": 4283,
+              "seasonYear": 2016,
+              "seasonName": "AUTUMN",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01MzQw",
+              "annictId": 5340,
+              "title": "劇場版 響け！ユーフォニアム～誓いのフィナーレ～",
+              "titleEn": "Hibike! Euphonium Movie: Chikai no Finale",
+              "titleKana": "げきじょうばんひびけゆーふぉにあむちかいのふぃなーれ",
+              "titleRo": "",
+              "malAnimeId": "35678",
+              "syobocalTid": 5707,
+              "seasonYear": 2019,
+              "seasonName": "SPRING",
+              "episodesCount": 0,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02Njg4",
+              "annictId": 6688,
+              "title": "響け！ユーフォニアム3",
+              "titleEn": "Hibike! Euphonium 3",
+              "titleKana": "ひびけゆーふぉにあむ3",
+              "titleRo": "",
+              "malAnimeId": "39894",
+              "syobocalTid": 6979,
+              "seasonYear": 2024,
+              "seasonName": "SPRING",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay05Njg5",
+              "annictId": 9689,
+              "title": "特別編 響け！ユーフォニアム～アンサンブルコンテスト～",
+              "titleEn": "Hibike! Euphonium Special-hen: Ensemble Contest",
+              "titleKana": "とくべつへんひびけゆーふぉにあむあんさんぶるこんてすと",
+              "titleRo": "",
+              "malAnimeId": "51995",
+              "syobocalTid": 7050,
+              "seasonYear": 2023,
+              "seasonName": "SUMMER",
+              "episodesCount": 0,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01MzM5",
+              "annictId": 5339,
+              "title": "リズと青い鳥",
+              "titleEn": "Liz to Aoi Tori",
+              "titleKana": "りずとあおいとり",
+              "titleRo": "Liz to Aoi Tori",
+              "malAnimeId": "35677",
+              "syobocalTid": 5290,
+              "seasonYear": 2018,
+              "seasonName": "SPRING",
+              "episodesCount": 0,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay04MDQ=",
+              "annictId": 804,
+              "title": "さくら荘のペットな彼女",
+              "titleEn": "Sakurasou no Pet na Kanojo",
+              "titleKana": "さくらそうのぺっとなかのじょ",
+              "titleRo": "Sakurasou no Pet na Kanojo",
+              "malAnimeId": "13759",
+              "syobocalTid": 2665,
+              "seasonYear": 2012,
+              "seasonName": "AUTUMN",
+              "episodesCount": 24,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay05MjQ0",
+              "annictId": 9244,
+              "title": "Summer Pockets",
+              "titleEn": "Summer Pockets",
+              "titleKana": "さまーぽけっつ",
+              "titleRo": "",
+              "malAnimeId": "50694",
+              "syobocalTid": 7381,
+              "seasonYear": 2025,
+              "seasonName": "SPRING",
+              "episodesCount": 26,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMTk4",
+              "annictId": 1198,
+              "title": "たまこまーけっと",
+              "titleEn": "Tamako Market",
+              "titleKana": "たまこまーけっと",
+              "titleRo": "Tamako Market",
+              "malAnimeId": "16417",
+              "syobocalTid": 2825,
+              "seasonYear": 2013,
+              "seasonName": "WINTER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01NDU5",
+              "annictId": 5459,
+              "title": "ゆるキャン△",
+              "titleEn": "Yuru Camp△",
+              "titleKana": "ゆるきゃん",
+              "titleRo": "Yuru Camp△",
+              "malAnimeId": "34798",
+              "syobocalTid": 4783,
+              "seasonYear": 2018,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay05NTM=",
+              "annictId": 953,
+              "title": "新世界より",
+              "titleEn": "Shinsekai yori",
+              "titleKana": "しんせかいより",
+              "titleRo": "Shinsekai yori",
+              "malAnimeId": "13125",
+              "syobocalTid": 2717,
+              "seasonYear": 2012,
+              "seasonName": "AUTUMN",
+              "episodesCount": 25,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01NzYw",
+              "annictId": 5760,
+              "title": "少女☆歌劇 レヴュースタァライト",
+              "titleEn": "Shoujo☆Kageki Revue Starlight",
+              "titleKana": "しょうじょかげき れぶゅーすたぁらいと",
+              "titleRo": "",
+              "malAnimeId": "35503",
+              "syobocalTid": 4969,
+              "seasonYear": 2018,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0yMTM5",
+              "annictId": 2139,
+              "title": "みなみけ",
+              "titleEn": "Minami-ke",
+              "titleKana": "みなみけ",
+              "titleRo": "Minami-ke",
+              "malAnimeId": "2963",
+              "syobocalTid": 1249,
+              "seasonYear": 2007,
+              "seasonName": "AUTUMN",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0yMTQw",
+              "annictId": 2140,
+              "title": "みなみけ おかえり",
+              "titleEn": "Minami-ke Okaeri",
+              "titleKana": "みなみけおかえり",
+              "titleRo": "Minami-ke Okaeri",
+              "malAnimeId": "5162",
+              "syobocalTid": 1538,
+              "seasonYear": 2009,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNTY1OA==",
+              "annictId": 15658,
+              "title": "上伊那ぼたん、酔へる姿は百合の花",
+              "titleEn": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+              "titleKana": "かみいなぼたんよえるすがたはゆりのはな",
+              "titleRo": "",
+              "malAnimeId": "61186",
+              "syobocalTid": 7747,
+              "seasonYear": 2026,
+              "seasonName": "SPRING",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01MzM3",
+              "annictId": 5337,
+              "title": "宝石の国",
+              "titleEn": "Houseki no Kuni",
+              "titleKana": "ほうせきのくに",
+              "titleRo": "Houseki no Kuni",
+              "malAnimeId": "35557",
+              "syobocalTid": 4696,
+              "seasonYear": 2017,
+              "seasonName": "AUTUMN",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02MzIy",
+              "annictId": 6322,
+              "title": "女子高生の無駄づかい",
+              "titleEn": "Joshikousei no Mudazukai",
+              "titleKana": "じょしこうせいのむだづかい",
+              "titleRo": "",
+              "malAnimeId": "38619",
+              "syobocalTid": 5348,
+              "seasonYear": 2019,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNTU1Nw==",
+              "annictId": 15557,
+              "title": "きみが死ぬまで恋をしたい",
+              "titleEn": "Kimi ga Shinu made Koi wo Shitai",
+              "titleKana": "きみがしぬまでこいをしたい",
+              "titleRo": "",
+              "malAnimeId": "61126",
+              "syobocalTid": 7910,
+              "seasonYear": 2026,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHING"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNjM5MQ==",
+              "annictId": 16391,
+              "title": "スーパーの裏でヤニ吸うふたり",
+              "titleEn": "Super no Ura de Yani Suu Futari",
+              "titleKana": "すーぱーのうらでやにすうふたり",
+              "titleRo": "",
+              "malAnimeId": "62076",
+              "syobocalTid": 7850,
+              "seasonYear": 2026,
+              "seasonName": "SUMMER",
+              "episodesCount": 11,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01MzYx",
+              "annictId": 5361,
+              "title": "ダーリン・イン・ザ・フランキス",
+              "titleEn": "Darling in the FranXX",
+              "titleKana": "だーりんいんざふらんきす",
+              "titleRo": "Darling in the Frankxx",
+              "malAnimeId": "35849",
+              "syobocalTid": 4788,
+              "seasonYear": 2018,
+              "seasonName": "WINTER",
+              "episodesCount": 24,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MDg2",
+              "annictId": 4086,
+              "title": "東京喰種トーキョーグール",
+              "titleEn": "",
+              "titleKana": "とーきょーぐーる",
+              "titleRo": "",
+              "malAnimeId": "22319",
+              "syobocalTid": 3437,
+              "seasonYear": 2014,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MjI5",
+              "annictId": 4229,
+              "title": "東京喰種トーキョーグール√A",
+              "titleEn": "",
+              "titleKana": "とーきょーぐーるるーとえー",
+              "titleRo": "",
+              "malAnimeId": "27899",
+              "syobocalTid": 3609,
+              "seasonYear": 2015,
+              "seasonName": "WINTER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00NTk0",
+              "annictId": 4594,
+              "title": "東京喰種トーキョーグール【JACK】",
+              "titleEn": "",
+              "titleKana": "",
+              "titleRo": "",
+              "malAnimeId": "30458",
+              "syobocalTid": null,
+              "seasonYear": 2015,
+              "seasonName": "SUMMER",
+              "episodesCount": 1,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01NTI0",
+              "annictId": 5524,
+              "title": "東京喰種トーキョーグール:re",
+              "titleEn": "Tokyo Ghoul:re",
+              "titleKana": "とーきょーぐーる",
+              "titleRo": "Tokyo Ghoul:re",
+              "malAnimeId": "36511",
+              "syobocalTid": 4863,
+              "seasonYear": 2018,
+              "seasonName": "SPRING",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02MTE3",
+              "annictId": 6117,
+              "title": "東京喰種トーキョーグール:re 最終章",
+              "titleEn": "Tokyo Ghoul:re Final Season",
+              "titleKana": "とーきょーぐーるあーるいー",
+              "titleRo": "",
+              "malAnimeId": "37799",
+              "syobocalTid": 5069,
+              "seasonYear": 2018,
+              "seasonName": "AUTUMN",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00NTQ3",
+              "annictId": 4547,
+              "title": "この素晴らしい世界に祝福を！",
+              "titleEn": "Kono Subarashii Sekai ni Shukufuku wo!",
+              "titleKana": "このすばらしいせかいにしゅくふくを",
+              "titleRo": "Kono Subarashii Sekai ni Shukufuku wo!",
+              "malAnimeId": "30831",
+              "syobocalTid": 4016,
+              "seasonYear": 2016,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNjk2",
+              "annictId": 1696,
+              "title": "化物語",
+              "titleEn": "Bakemonogatari",
+              "titleKana": "ばけものがたり",
+              "titleRo": "Bakemonogatari Recap",
+              "malAnimeId": "5081",
+              "syobocalTid": 1685,
+              "seasonYear": 2009,
+              "seasonName": "SUMMER",
+              "episodesCount": 17,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00NjM2",
+              "annictId": 4636,
+              "title": "Re:ゼロから始める異世界生活",
+              "titleEn": "Re:Zero kara Hajimeru Isekai Seikatsu",
+              "titleKana": "りぜろからはじめるいせかいせいかつ",
+              "titleRo": "",
+              "malAnimeId": "31240",
+              "syobocalTid": 4114,
+              "seasonYear": 2016,
+              "seasonName": "SPRING",
+              "episodesCount": 25,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0yNDQ=",
+              "annictId": 244,
+              "title": "Angel Beats!",
+              "titleEn": "Angel Beats!",
+              "titleKana": "えんじぇるびーつ",
+              "titleRo": "Angel Beats!",
+              "malAnimeId": "6547",
+              "syobocalTid": 1896,
+              "seasonYear": 2010,
+              "seasonName": "SPRING",
+              "episodesCount": 16,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xODA4",
+              "annictId": 1808,
+              "title": "氷菓",
+              "titleEn": "Hyouka",
+              "titleKana": "ひょうか",
+              "titleRo": "Hyouka",
+              "malAnimeId": "12189",
+              "syobocalTid": 2495,
+              "seasonYear": 2012,
+              "seasonName": "SPRING",
+              "episodesCount": 24,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNTM0",
+              "annictId": 1534,
+              "title": "偽物語",
+              "titleEn": "Nisemonogatari",
+              "titleKana": "にせものがたり",
+              "titleRo": "Nisemonogatari",
+              "malAnimeId": "11597",
+              "syobocalTid": 2396,
+              "seasonYear": 2012,
+              "seasonName": "WINTER",
+              "episodesCount": 11,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNTU4",
+              "annictId": 1558,
+              "title": "猫物語(黒)",
+              "titleEn": "",
+              "titleKana": "ねこものがたりくろ",
+              "titleRo": "",
+              "malAnimeId": "15689",
+              "syobocalTid": 2840,
+              "seasonYear": 2012,
+              "seasonName": "AUTUMN",
+              "episodesCount": 4,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0yMjUy",
+              "annictId": 2252,
+              "title": "＜物語＞シリーズ セカンドシーズン",
+              "titleEn": "",
+              "titleKana": "ものがたりしりーずせかんどしーずん",
+              "titleRo": "",
+              "malAnimeId": "17074",
+              "syobocalTid": 3012,
+              "seasonYear": 2013,
+              "seasonName": "SUMMER",
+              "episodesCount": 31,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MjQ2",
+              "annictId": 4246,
+              "title": "憑物語",
+              "titleEn": "Tsukimonogatari",
+              "titleKana": "つきものがたり",
+              "titleRo": "Tsukimonogatari",
+              "malAnimeId": "28025",
+              "syobocalTid": 3581,
+              "seasonYear": 2014,
+              "seasonName": "AUTUMN",
+              "episodesCount": 4,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00NDQ5",
+              "annictId": 4449,
+              "title": "終物語",
+              "titleEn": "Owarimonogatari",
+              "titleKana": "おわりものがたり",
+              "titleRo": "Owarimonogatari",
+              "malAnimeId": "31181",
+              "syobocalTid": 3898,
+              "seasonYear": 2015,
+              "seasonName": "AUTUMN",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01NjUy",
+              "annictId": 5652,
+              "title": "続・終物語",
+              "titleEn": "Zoku Owarimonogatari",
+              "titleKana": "ぞくおわりものがたり",
+              "titleRo": "Zoku Owarimonogatari",
+              "malAnimeId": "36999",
+              "syobocalTid": 5292,
+              "seasonYear": 2018,
+              "seasonName": "AUTUMN",
+              "episodesCount": 6,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01MzQz",
+              "annictId": 5343,
+              "title": "終物語 第2期",
+              "titleEn": "Owarimonogatari 2nd Season",
+              "titleKana": "おわりものがたり",
+              "titleRo": "Owarimonogatari 2nd Season",
+              "malAnimeId": "35247",
+              "syobocalTid": null,
+              "seasonYear": 2017,
+              "seasonName": "SUMMER",
+              "episodesCount": 9,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00OTQ1",
+              "annictId": 4945,
+              "title": "傷物語 Ⅲ 冷血篇",
+              "titleEn": "Kizumonogatari III: Reiketsu-hen",
+              "titleKana": "きずものがたりすりーれいけつへん",
+              "titleRo": "",
+              "malAnimeId": "31758",
+              "syobocalTid": null,
+              "seasonYear": 2017,
+              "seasonName": "WINTER",
+              "episodesCount": 1,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00ODQx",
+              "annictId": 4841,
+              "title": "傷物語 Ⅱ 熱血篇",
+              "titleEn": "Kizumonogatari II: Nekketsu-hen",
+              "titleKana": "きずものがたり ねっけつへん",
+              "titleRo": "",
+              "malAnimeId": "31757",
+              "syobocalTid": null,
+              "seasonYear": 2016,
+              "seasonName": "SUMMER",
+              "episodesCount": 1,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00NTEx",
+              "annictId": 4511,
+              "title": "傷物語 Ⅰ 鉄血篇",
+              "titleEn": "Kizumonogatari I: Tekketsu-hen",
+              "titleKana": "きずものがたり てっけつへん",
+              "titleRo": "",
+              "malAnimeId": "9260",
+              "syobocalTid": null,
+              "seasonYear": 2016,
+              "seasonName": "WINTER",
+              "episodesCount": 1,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00NTg3",
+              "annictId": 4587,
+              "title": "暦物語",
+              "titleEn": "Koyomimonogatari",
+              "titleKana": "こよみものがたり",
+              "titleRo": "Koyomimonogatari",
+              "malAnimeId": "32268",
+              "syobocalTid": 4997,
+              "seasonYear": 2016,
+              "seasonName": "WINTER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMTExOA==",
+              "annictId": 11118,
+              "title": "傷物語 -こよみヴァンプ-",
+              "titleEn": "Kizumonogatari: Koyomi Vamp",
+              "titleKana": "きずものがたりこよみヴぁんぷ",
+              "titleRo": "",
+              "malAnimeId": "56609",
+              "syobocalTid": null,
+              "seasonYear": 2024,
+              "seasonName": "WINTER",
+              "episodesCount": 0,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMjQ1MQ==",
+              "annictId": 12451,
+              "title": "〈物語〉シリーズ オフ&モンスターシーズン",
+              "titleEn": "Monogatari Series: Off & Monster Season",
+              "titleKana": "ものがたりしりーず おふあんどもんすたーしーずん",
+              "titleRo": "",
+              "malAnimeId": "57864",
+              "syobocalTid": 7110,
+              "seasonYear": 2024,
+              "seasonName": "SUMMER",
+              "episodesCount": 15,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02NTgz",
+              "annictId": 6583,
+              "title": "『続・終物語』&『<物語> シリーズ』セレクション",
+              "titleEn": "Zoku Owarimonogatari & Monogatari series selection",
+              "titleKana": "ぞくおわりものがたりものがたりしりーずせれくしょん",
+              "titleRo": "",
+              "malAnimeId": null,
+              "syobocalTid": null,
+              "seasonYear": 2019,
+              "seasonName": "SPRING",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNjI4NA==",
+              "annictId": 16284,
+              "title": "〈物語〉シリーズ オフ&モンスターシーズン 業物語 かれんオウガ",
+              "titleEn": "Monogatari Series: Off & Monster Season - Wazamonogatari: Karen Ogre",
+              "titleKana": "ものがたりしりーず おふあんどもんすたーしーずん",
+              "titleRo": "",
+              "malAnimeId": "61968",
+              "syobocalTid": null,
+              "seasonYear": 2026,
+              "seasonName": "AUTUMN",
+              "episodesCount": 0,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02MDg5",
+              "annictId": 6089,
+              "title": "鬼滅の刃 竈門炭治郎 立志編",
+              "titleEn": "Kimetsu no Yaiba",
+              "titleKana": "きめつのやいばかまどたんじろうりっしへん",
+              "titleRo": "",
+              "malAnimeId": "38000",
+              "syobocalTid": 5253,
+              "seasonYear": 2019,
+              "seasonName": "SPRING",
+              "episodesCount": 26,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00OTAy",
+              "annictId": 4902,
+              "title": "この素晴らしい世界に祝福を！2",
+              "titleEn": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+              "titleKana": "このすばらしいせかいにしゅくふくを",
+              "titleRo": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+              "malAnimeId": "32937",
+              "syobocalTid": 4401,
+              "seasonYear": 2017,
+              "seasonName": "WINTER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0yMzQ5",
+              "annictId": 2349,
+              "title": "ラブライブ！ School idol project",
+              "titleEn": "Love Live! School Idol Project",
+              "titleKana": "らぶらいぶすくーるあいどるぷろじぇくと",
+              "titleRo": "Love Live! School Idol Project",
+              "malAnimeId": "15051",
+              "syobocalTid": 2844,
+              "seasonYear": 2013,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay05NTQ=",
+              "annictId": 954,
+              "title": "新世紀エヴァンゲリオン",
+              "titleEn": "Neon Genesis Evangelion",
+              "titleKana": "しんせいきえばんげりおん",
+              "titleRo": "Neon Genesis Evangelion",
+              "malAnimeId": "30",
+              "syobocalTid": 335,
+              "seasonYear": 1995,
+              "seasonName": "AUTUMN",
+              "episodesCount": 26,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00Mjc4",
+              "annictId": 4278,
+              "title": "聲の形",
+              "titleEn": "Koe no Katachi",
+              "titleKana": "こえのかたち",
+              "titleRo": "Koe no Katachi",
+              "malAnimeId": "28851",
+              "syobocalTid": null,
+              "seasonYear": 2016,
+              "seasonName": "SUMMER",
+              "episodesCount": 1,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0zOTk0",
+              "annictId": 3994,
+              "title": "ご注文はうさぎですか？",
+              "titleEn": "Gochuumon wa Usagi Desu ka?",
+              "titleKana": "ごちゅうもんはうさぎですか",
+              "titleRo": "Gochuumon wa Usagi Desu ka?",
+              "malAnimeId": "21273",
+              "syobocalTid": 3324,
+              "seasonYear": 2014,
+              "seasonName": "SPRING",
+              "episodesCount": 12,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNDIw",
+              "annictId": 1420,
+              "title": "とある科学の超電磁砲S",
+              "titleEn": "Toaru Kagaku no Railgun S",
+              "titleKana": "とあるかがくのれーるがんえす",
+              "titleRo": "Toaru Kagaku no Railgun S",
+              "malAnimeId": "16049",
+              "syobocalTid": 2937,
+              "seasonYear": 2013,
+              "seasonName": "SPRING",
+              "episodesCount": 24,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00NjI0",
+              "annictId": 4624,
+              "title": "NEW GAME!",
+              "titleEn": "New Game!",
+              "titleKana": "にゅーげーむ",
+              "titleRo": "New Game!",
+              "malAnimeId": "31953",
+              "syobocalTid": 4223,
+              "seasonYear": 2016,
+              "seasonName": "SUMMER",
+              "episodesCount": 13,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00NzE0",
+              "annictId": 4714,
+              "title": "エロマンガ先生",
+              "titleEn": "Eromanga-sensei",
+              "titleKana": "えろまんがせんせい",
+              "titleRo": "Eromanga-sensei",
+              "malAnimeId": "32901",
+              "syobocalTid": 4506,
+              "seasonYear": 2017,
+              "seasonName": "SPRING",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNTQw",
+              "annictId": 1540,
+              "title": "日常",
+              "titleEn": "Nichijou",
+              "titleKana": "にちじょう",
+              "titleRo": "Nichijou",
+              "malAnimeId": "10165",
+              "syobocalTid": 2116,
+              "seasonYear": 2011,
+              "seasonName": "SPRING",
+              "episodesCount": 27,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay03MTYy",
+              "annictId": 7162,
+              "title": "呪術廻戦",
+              "titleEn": "Jujutsu Kaisen",
+              "titleKana": "じゅじゅつかいせん",
+              "titleRo": "",
+              "malAnimeId": "40748",
+              "syobocalTid": 5764,
+              "seasonYear": 2020,
+              "seasonName": "AUTUMN",
+              "episodesCount": 24,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00Mzcw",
+              "annictId": 4370,
+              "title": "ワンパンマン",
+              "titleEn": "One Punch Man",
+              "titleKana": "わんぱんまん",
+              "titleRo": "One Punch Man Specials",
+              "malAnimeId": "30276",
+              "syobocalTid": 3915,
+              "seasonYear": 2015,
+              "seasonName": "AUTUMN",
+              "episodesCount": 19,
+              "viewerStatusState": "WATCHING"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay05MjUw",
+              "annictId": 9250,
+              "title": "リコリス・リコイル",
+              "titleEn": "Lycoris Recoil",
+              "titleKana": "りこりすりこいる",
+              "titleRo": "",
+              "malAnimeId": "50709",
+              "syobocalTid": 6390,
+              "seasonYear": 2022,
+              "seasonName": "SUMMER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay04MTI4",
+              "annictId": 8128,
+              "title": "ぼっち・ざ・ろっく！",
+              "titleEn": "Bocchi the Rock!",
+              "titleKana": "ぼっちざろっく",
+              "titleRo": "",
+              "malAnimeId": "47917",
+              "syobocalTid": 6474,
+              "seasonYear": 2022,
+              "seasonName": "AUTUMN",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01NTky",
+              "annictId": 5592,
+              "title": "宇宙よりも遠い場所",
+              "titleEn": "Sora yori mo Tooi Basho",
+              "titleKana": "そらよりもとおいばしょ",
+              "titleRo": "Sora yori mo Tooi Basho",
+              "malAnimeId": "35839",
+              "syobocalTid": 4786,
+              "seasonYear": 2018,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01MzIy",
+              "annictId": 5322,
+              "title": "ようこそ実力至上主義の教室へ",
+              "titleEn": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+              "titleKana": "ようこそじつりょくしゅぎのきょうしつへ",
+              "titleRo": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+              "malAnimeId": "35507",
+              "syobocalTid": 4612,
+              "seasonYear": 2017,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00NDUy",
+              "annictId": 4452,
+              "title": "ご注文はうさぎですか？？",
+              "titleEn": "Is the Order a Rabbit??",
+              "titleKana": "ごちゅうもんはうさぎですか",
+              "titleRo": "",
+              "malAnimeId": "29787",
+              "syobocalTid": 3893,
+              "seasonYear": 2015,
+              "seasonName": "AUTUMN",
+              "episodesCount": 12,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0zMTc5",
+              "annictId": 3179,
+              "title": "ヱヴァンゲリヲン 新劇場版：Q",
+              "titleEn": "Evangelion: 3.0 You Can (Not) Redo",
+              "titleKana": "えゔぁんげりをんしんげきじょうばんきゅう",
+              "titleRo": "",
+              "malAnimeId": "3785",
+              "syobocalTid": 3513,
+              "seasonYear": 2012,
+              "seasonName": "AUTUMN",
+              "episodesCount": 1,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0zMTgx",
+              "annictId": 3181,
+              "title": "ヱヴァンゲリヲン 新劇場版：破",
+              "titleEn": "Evangelion: 2.0 You Can (Not) Advance",
+              "titleKana": "えゔぁんげりをんしんげきじょうばんは",
+              "titleRo": "",
+              "malAnimeId": "3784",
+              "syobocalTid": 2790,
+              "seasonYear": 2009,
+              "seasonName": "SPRING",
+              "episodesCount": 1,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0zMTgw",
+              "annictId": 3180,
+              "title": "ヱヴァンゲリヲン 新劇場版：序",
+              "titleEn": "Evangelion: 1.0 You Are (Not) Alone",
+              "titleKana": "えゔぁんげりをんしんげきじょうばんじょ",
+              "titleRo": "",
+              "malAnimeId": "2759",
+              "syobocalTid": 2785,
+              "seasonYear": 2007,
+              "seasonName": "SUMMER",
+              "episodesCount": 1,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02NTgy",
+              "annictId": 6582,
+              "title": "Re:ゼロから始める異世界生活 2nd season",
+              "titleEn": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
+              "titleKana": "りぜろからはじめるいせかいせいかつせかんどしーずん",
+              "titleRo": "",
+              "malAnimeId": "39587",
+              "syobocalTid": 5697,
+              "seasonYear": 2020,
+              "seasonName": "SUMMER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNzU3",
+              "annictId": 1757,
+              "title": "ひぐらしのなく頃に",
+              "titleEn": "Higurashi no Naku Koro ni",
+              "titleKana": "ひぐらしのなくころに",
+              "titleRo": "Higurashi no Naku Koro ni",
+              "malAnimeId": "934",
+              "syobocalTid": 705,
+              "seasonYear": 2006,
+              "seasonName": "SPRING",
+              "episodesCount": 26,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01MjI3",
+              "annictId": 5227,
+              "title": "NEW GAME!!",
+              "titleEn": "New Game!!",
+              "titleKana": "にゅーげーむ",
+              "titleRo": "New Game!!",
+              "malAnimeId": "34914",
+              "syobocalTid": 4596,
+              "seasonYear": 2017,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MjQ=",
+              "annictId": 424,
+              "title": "ガールズ&パンツァー",
+              "titleEn": "Girls und Panzer",
+              "titleKana": "がーるずあんどぱんつぁー",
+              "titleRo": "Girls und Panzer",
+              "malAnimeId": "14131",
+              "syobocalTid": 2691,
+              "seasonYear": 2012,
+              "seasonName": "AUTUMN",
+              "episodesCount": 14,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02OTYy",
+              "annictId": 6962,
+              "title": "劇場版 鬼滅の刃 無限列車編",
+              "titleEn": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
+              "titleKana": "げきじょうばんきめつのやいばむげんれっしゃへん",
+              "titleRo": "",
+              "malAnimeId": "40456",
+              "syobocalTid": 6111,
+              "seasonYear": 2020,
+              "seasonName": "AUTUMN",
+              "episodesCount": 0,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay03ODY5",
+              "annictId": 7869,
+              "title": "チェンソーマン",
+              "titleEn": "Chainsaw Man",
+              "titleKana": "ちぇんそーまん",
+              "titleRo": "",
+              "malAnimeId": "44511",
+              "syobocalTid": 6454,
+              "seasonYear": 2022,
+              "seasonName": "AUTUMN",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay05Njk2",
+              "annictId": 9696,
+              "title": "【推しの子】",
+              "titleEn": "\"Oshi no Ko\"",
+              "titleKana": "おしのこ",
+              "titleRo": "",
+              "malAnimeId": "52034",
+              "syobocalTid": 6676,
+              "seasonYear": 2023,
+              "seasonName": "SPRING",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay03NTQx",
+              "annictId": 7541,
+              "title": "Re:ゼロから始める異世界生活 2nd season 第2部",
+              "titleEn": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+              "titleKana": "りぜろからはじめるいせかいせいかつせかんどしーずんだいにぶ",
+              "titleRo": "",
+              "malAnimeId": "42203",
+              "syobocalTid": 5857,
+              "seasonYear": 2021,
+              "seasonName": "WINTER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay03OTY5",
+              "annictId": 7969,
+              "title": "鬼滅の刃 遊郭編",
+              "titleEn": "Kimetsu no Yaiba: Yuukaku-hen ",
+              "titleKana": "きめつのやいばゆうかくへん",
+              "titleRo": "",
+              "malAnimeId": "47778",
+              "syobocalTid": 6188,
+              "seasonYear": 2021,
+              "seasonName": "AUTUMN",
+              "episodesCount": 11,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00",
+              "annictId": 4,
+              "title": "Another",
+              "titleEn": "Another",
+              "titleKana": "あなざー",
+              "titleRo": "Another",
+              "malAnimeId": "11111",
+              "syobocalTid": 2373,
+              "seasonYear": 2012,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0yMjc3",
+              "annictId": 2277,
+              "title": "ゆるゆり",
+              "titleEn": "Yuru Yuri",
+              "titleKana": "ゆるゆり",
+              "titleRo": "Yuru Yuri",
+              "malAnimeId": "10495",
+              "syobocalTid": 2193,
+              "seasonYear": 2011,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNzMy",
+              "annictId": 1732,
+              "title": "花咲くいろは",
+              "titleEn": "Hanasaku Iroha",
+              "titleKana": "はなさくいろは",
+              "titleRo": "Hanasaku Iroha",
+              "malAnimeId": "9289",
+              "syobocalTid": 2135,
+              "seasonYear": 2011,
+              "seasonName": "SPRING",
+              "episodesCount": 27,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay03MDUw",
+              "annictId": 7050,
+              "title": "魔女の旅々",
+              "titleEn": "Majo no Tabitabi",
+              "titleKana": "まじょのたびたび",
+              "titleRo": "",
+              "malAnimeId": "40571",
+              "syobocalTid": 5762,
+              "seasonYear": 2020,
+              "seasonName": "AUTUMN",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00OTk4",
+              "annictId": 4998,
+              "title": "ガヴリールドロップアウト",
+              "titleEn": "Gabriel DropOut",
+              "titleKana": "がゔりーるどろっぷあうと",
+              "titleRo": "Gabriel DropOut",
+              "malAnimeId": "33731",
+              "syobocalTid": 4393,
+              "seasonYear": 2017,
+              "seasonName": "WINTER",
+              "episodesCount": 14,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01MTY3",
+              "annictId": 5167,
+              "title": "賭ケグルイ",
+              "titleEn": "Kakegurui",
+              "titleKana": "かけぐるい",
+              "titleRo": "Kakegurui",
+              "malAnimeId": "34933",
+              "syobocalTid": 4623,
+              "seasonYear": 2017,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay04MTgx",
+              "annictId": 8181,
+              "title": "劇場版 呪術廻戦 0",
+              "titleEn": "Jujutsu Kaisen 0 Movie",
+              "titleKana": "げきじょうばんじゅじゅつかいせんぜろ",
+              "titleRo": "",
+              "malAnimeId": "48561",
+              "syobocalTid": 6184,
+              "seasonYear": 2021,
+              "seasonName": "AUTUMN",
+              "episodesCount": 0,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0yMTY1",
+              "annictId": 2165,
+              "title": "未来日記",
+              "titleEn": "Mirai Nikki",
+              "titleKana": "みらいにっき",
+              "titleRo": "Mirai Nikki",
+              "malAnimeId": "10620",
+              "syobocalTid": 2273,
+              "seasonYear": 2011,
+              "seasonName": "AUTUMN",
+              "episodesCount": 26,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMTI3",
+              "annictId": 1127,
+              "title": "生徒会役員共",
+              "titleEn": "Seitokai Yakuindomo",
+              "titleKana": "せいとかいやくいんども",
+              "titleRo": "Seitokai Yakuindomo",
+              "malAnimeId": "8675",
+              "syobocalTid": 1953,
+              "seasonYear": 2010,
+              "seasonName": "SUMMER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNzU4",
+              "annictId": 1758,
+              "title": "ひぐらしのなく頃に解",
+              "titleEn": "Higurashi no Naku Koro ni Kai",
+              "titleKana": "ひぐらしのなくころにかい",
+              "titleRo": "Higurashi no Naku Koro ni Kai",
+              "malAnimeId": "1889",
+              "syobocalTid": 1174,
+              "seasonYear": 2007,
+              "seasonName": "SUMMER",
+              "episodesCount": 24,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay04OTU3",
+              "annictId": 8957,
+              "title": "鬼滅の刃 無限列車編",
+              "titleEn": "Kimetsu no Yaiba: Mugen Ressha-hen",
+              "titleKana": "きめつのやいばむげんれっしゃへん",
+              "titleRo": "",
+              "malAnimeId": "49926",
+              "syobocalTid": 6165,
+              "seasonYear": 2021,
+              "seasonName": "AUTUMN",
+              "episodesCount": 7,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01NTMx",
+              "annictId": 5531,
+              "title": "オーバーロードⅡ",
+              "titleEn": "Overlord II",
+              "titleKana": "おーばーろーど",
+              "titleRo": "Overlord II",
+              "malAnimeId": "35073",
+              "syobocalTid": 4798,
+              "seasonYear": 2018,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02MTc4",
+              "annictId": 6178,
+              "title": "シン・エヴァンゲリオン劇場版:||",
+              "titleEn": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+              "titleKana": "しんえゔぁんげりおんげきじょうばん",
+              "titleRo": "",
+              "malAnimeId": "3786",
+              "syobocalTid": 6797,
+              "seasonYear": 2021,
+              "seasonName": "WINTER",
+              "episodesCount": 0,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02Mzk5",
+              "annictId": 6399,
+              "title": "痛いのは嫌なので防御力に極振りしたいと思います。",
+              "titleEn": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+              "titleKana": "いたいのはいやなのでぼうぎょりょくにきょくふりしたいとおもいます。",
+              "titleRo": "",
+              "malAnimeId": "38790",
+              "syobocalTid": 5521,
+              "seasonYear": 2020,
+              "seasonName": "WINTER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMjIx",
+              "annictId": 1221,
+              "title": "ダンガンロンパ 希望の学園と絶望の高校生 The Animation",
+              "titleEn": "",
+              "titleKana": "だんがんろんぱきぼうのがくえんとぜつぼうのこうこうせいじあにめーしょん",
+              "titleRo": "",
+              "malAnimeId": "16592",
+              "syobocalTid": 3043,
+              "seasonYear": 2013,
+              "seasonName": "SUMMER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMzI5",
+              "annictId": 1329,
+              "title": "DEATH NOTE",
+              "titleEn": "Death Note",
+              "titleKana": "ですのーと",
+              "titleRo": "Death Note",
+              "malAnimeId": "1535",
+              "syobocalTid": 945,
+              "seasonYear": 2006,
+              "seasonName": "AUTUMN",
+              "episodesCount": 37,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01NDg1",
+              "annictId": 5485,
+              "title": "Re:ゼロから始める異世界生活 Memory Snow",
+              "titleEn": "Re:Zero kara Hajimeru Isekai Seikatsu Memory Snow",
+              "titleKana": "りぜろからはじめるいせかいせいかつ",
+              "titleRo": "Re:Zero kara Hajimeru Isekai Seikatsu OVA",
+              "malAnimeId": "36286",
+              "syobocalTid": 5588,
+              "seasonYear": 2018,
+              "seasonName": "AUTUMN",
+              "episodesCount": 0,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay05MzI4",
+              "annictId": 9328,
+              "title": "鬼滅の刃 刀鍛冶の里編",
+              "titleEn": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+              "titleKana": "きめつのやいば かたなかじのさとへん",
+              "titleRo": "",
+              "malAnimeId": "51019",
+              "syobocalTid": 6645,
+              "seasonYear": 2023,
+              "seasonName": "SPRING",
+              "episodesCount": 11,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMTI4",
+              "annictId": 1128,
+              "title": "生徒会役員共＊",
+              "titleEn": "Seitokai Yakuindomo*",
+              "titleKana": "せいとかいやくいんども",
+              "titleRo": "Seitokai Yakuindomo*",
+              "malAnimeId": "20847",
+              "syobocalTid": 3239,
+              "seasonYear": 2014,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02MzMw",
+              "annictId": 6330,
+              "title": "慎重勇者 ～この勇者が俺TUEEEくせに慎重すぎる～",
+              "titleEn": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru",
+              "titleKana": "しんちょうゆうしゃこのゆうしゃがおれつえええくせにしんちょうすぎる",
+              "titleRo": "",
+              "malAnimeId": "38659",
+              "syobocalTid": 5414,
+              "seasonYear": 2019,
+              "seasonName": "AUTUMN",
+              "episodesCount": 13,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay05Mzg1",
+              "annictId": 9385,
+              "title": "ようこそ実力至上主義の教室へ 2nd Season",
+              "titleEn": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season",
+              "titleKana": "ようこそじつりょくしゅぎのきょうしつへ",
+              "titleRo": "",
+              "malAnimeId": "51096",
+              "syobocalTid": 6369,
+              "seasonYear": 2022,
+              "seasonName": "SUMMER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MTk2",
+              "annictId": 4196,
+              "title": "グリザイアの果実",
+              "titleEn": "Grisaia no Kajitsu",
+              "titleKana": "ぐりざいあのかじつ",
+              "titleRo": "Grisaia no Kajitsu Specials",
+              "malAnimeId": "17729",
+              "syobocalTid": 3506,
+              "seasonYear": 2014,
+              "seasonName": "AUTUMN",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02MTMw",
+              "annictId": 6130,
+              "title": "私に天使が舞い降りた！",
+              "titleEn": "Watashi ni Tenshi ga Maiorita!",
+              "titleKana": "わたしにてんしがまいおりた",
+              "titleRo": "",
+              "malAnimeId": "37993",
+              "syobocalTid": 5143,
+              "seasonYear": 2019,
+              "seasonName": "WINTER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHING"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMDk3Ng==",
+              "annictId": 10976,
+              "title": "【推しの子】第2期",
+              "titleEn": "\"Oshi no Ko\" 2nd Season",
+              "titleKana": "おしのこ",
+              "titleRo": "",
+              "malAnimeId": "55791",
+              "syobocalTid": 7092,
+              "seasonYear": 2024,
+              "seasonName": "SUMMER",
+              "episodesCount": 14,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MTIx",
+              "annictId": 4121,
+              "title": "残響のテロル",
+              "titleEn": "Zankyou no Terror",
+              "titleKana": "ざんきょうのてろる",
+              "titleRo": "Zankyou no Terror",
+              "malAnimeId": "23283",
+              "syobocalTid": 3475,
+              "seasonYear": 2014,
+              "seasonName": "SUMMER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHING"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MDk4",
+              "annictId": 4098,
+              "title": "アカメが斬る！",
+              "titleEn": "Akame ga Kill!",
+              "titleKana": "あかめがきる",
+              "titleRo": "Akame ga Kill!",
+              "malAnimeId": "22199",
+              "syobocalTid": 3427,
+              "seasonYear": 2014,
+              "seasonName": "SUMMER",
+              "episodesCount": 24,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay05NTc4",
+              "annictId": 9578,
+              "title": "お兄ちゃんはおしまい！",
+              "titleEn": "Oniichan wa Oshimai!",
+              "titleKana": "おにいちゃんはおしまい",
+              "titleRo": "",
+              "malAnimeId": "51678",
+              "syobocalTid": 6556,
+              "seasonYear": 2023,
+              "seasonName": "WINTER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay04Nzgx",
+              "annictId": 8781,
+              "title": "この素晴らしい世界に祝福を！3",
+              "titleEn": "Kono Subarashii Sekai ni Shukufuku wo! 3",
+              "titleKana": "このすばらしいせかいにしゅくふくをすりー",
+              "titleRo": "",
+              "malAnimeId": "49458",
+              "syobocalTid": 6998,
+              "seasonYear": 2024,
+              "seasonName": "SPRING",
+              "episodesCount": 11,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MzY5",
+              "annictId": 4369,
+              "title": "ゆるゆり さん☆ハイ！",
+              "titleEn": "Yuru Yuri San☆Hai!",
+              "titleKana": "ゆるゆりさんはい",
+              "titleRo": "Yuru Yuri San☆Hai!",
+              "malAnimeId": "30279",
+              "syobocalTid": 3884,
+              "seasonYear": 2015,
+              "seasonName": "AUTUMN",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00Nzky",
+              "annictId": 4792,
+              "title": "ReLIFE",
+              "titleEn": "ReLIFE",
+              "titleKana": "りらいふ",
+              "titleRo": "ReLIFE",
+              "malAnimeId": "30015",
+              "syobocalTid": 4218,
+              "seasonYear": 2016,
+              "seasonName": "SUMMER",
+              "episodesCount": 13,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0zMzM5",
+              "annictId": 3339,
+              "title": "新世紀エヴァンゲリオン 劇場版 THE END OF EVANGELION Air/まごころを、君に",
+              "titleEn": "Neon Genesis Evangelion: The End of Evangelion",
+              "titleKana": "しんせいきえゔぁんげりおんじえんどおぶえゔぁんげりおんえあーまごころをきみに",
+              "titleRo": "",
+              "malAnimeId": "32",
+              "syobocalTid": null,
+              "seasonYear": 1997,
+              "seasonName": "SUMMER",
+              "episodesCount": 1,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay04MTM4",
+              "annictId": 8138,
+              "title": "陰の実力者になりたくて！",
+              "titleEn": "Kage no Jitsuryokusha ni Naritakute!",
+              "titleKana": "かげのじつりょくしゃになりたくて",
+              "titleRo": "",
+              "malAnimeId": "48316",
+              "syobocalTid": 6452,
+              "seasonYear": 2022,
+              "seasonName": "AUTUMN",
+              "episodesCount": 20,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MzU3",
+              "annictId": 4357,
+              "title": "グリザイアの楽園",
+              "titleEn": "Grisaia no Rakuen",
+              "titleKana": "ぐりざいあのらくえん",
+              "titleRo": "Grisaia no Rakuen Specials",
+              "malAnimeId": "29095",
+              "syobocalTid": 3686,
+              "seasonYear": 2015,
+              "seasonName": "SPRING",
+              "episodesCount": 10,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMzY3",
+              "annictId": 1367,
+              "title": "デート・ア・ライブ",
+              "titleEn": "Date A Live",
+              "titleKana": "でーとあらいぶ",
+              "titleRo": "Date A Live",
+              "malAnimeId": "15583",
+              "syobocalTid": 2910,
+              "seasonYear": 2013,
+              "seasonName": "SPRING",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay03NDAw",
+              "annictId": 7400,
+              "title": "ひぐらしのなく頃に業",
+              "titleEn": "Higurashi no Naku Koro ni Gou",
+              "titleKana": "ひぐらしのなくころにごう",
+              "titleRo": "",
+              "malAnimeId": "41006",
+              "syobocalTid": 5757,
+              "seasonYear": 2020,
+              "seasonName": "AUTUMN",
+              "episodesCount": 24,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay03NDcz",
+              "annictId": 7473,
+              "title": "無能なナナ",
+              "titleEn": "Munou na Nana",
+              "titleKana": "むのうななな",
+              "titleRo": "",
+              "malAnimeId": "41619",
+              "syobocalTid": 5766,
+              "seasonYear": 2020,
+              "seasonName": "AUTUMN",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02MDEw",
+              "annictId": 6010,
+              "title": "やがて君になる",
+              "titleEn": "Yagate Kimi ni Naru",
+              "titleKana": "やがてきみになる",
+              "titleRo": "",
+              "malAnimeId": "37786",
+              "syobocalTid": 5059,
+              "seasonYear": 2018,
+              "seasonName": "AUTUMN",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MzU2",
+              "annictId": 4356,
+              "title": "グリザイアの迷宮",
+              "titleEn": "Grisaia no Meikyuu: Caprice no Mayu 0",
+              "titleKana": "ぐりざいあのめいきゅう",
+              "titleRo": "",
+              "malAnimeId": "29093",
+              "syobocalTid": 3685,
+              "seasonYear": 2015,
+              "seasonName": "SPRING",
+              "episodesCount": 1,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMDkyNA==",
+              "annictId": 10924,
+              "title": "鬼滅の刃 柱稽古編",
+              "titleEn": "Kimetsu no Yaiba: Hashira Geiko-hen",
+              "titleKana": "きめつのやいばはしらげいこへん",
+              "titleRo": "",
+              "malAnimeId": "55701",
+              "syobocalTid": 7048,
+              "seasonYear": 2024,
+              "seasonName": "SPRING",
+              "episodesCount": 8,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay04NDg=",
+              "annictId": 848,
+              "title": "桜Trick",
+              "titleEn": "Sakura Trick",
+              "titleKana": "さくらとりっく",
+              "titleRo": "Sakura Trick",
+              "malAnimeId": "20047",
+              "syobocalTid": 3247,
+              "seasonYear": 2014,
+              "seasonName": "WINTER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01Njcx",
+              "annictId": 5671,
+              "title": "賭ケグルイ××",
+              "titleEn": "Kakegurui 2nd Season",
+              "titleKana": "かけぐるい",
+              "titleRo": "Kakegurui",
+              "malAnimeId": "37086",
+              "syobocalTid": 5151,
+              "seasonYear": 2019,
+              "seasonName": "WINTER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMDU4NA==",
+              "annictId": 10584,
+              "title": "時々ボソッとロシア語でデレる隣のアーリャさん",
+              "titleEn": "Tokidoki Bosotto Russia-go de Dereru Tonari no Aalya-san",
+              "titleKana": "ときどきぼそっとろしあごででれるとなりのあーりゃさん",
+              "titleRo": "",
+              "malAnimeId": "54744",
+              "syobocalTid": 7099,
+              "seasonYear": 2024,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMDYyNw==",
+              "annictId": 10627,
+              "title": "Re:ゼロから始める異世界生活 3rd season 襲撃編",
+              "titleEn": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+              "titleKana": "りぜろからはじめるいせかいせいかつ さーどしーずん しゅうげきへん",
+              "titleRo": "",
+              "malAnimeId": "54857",
+              "syobocalTid": 7236,
+              "seasonYear": 2024,
+              "seasonName": "AUTUMN",
+              "episodesCount": 8,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01MzU0",
+              "annictId": 5354,
+              "title": "ご注文はうさぎですか？？ ～Dear My Sister～",
+              "titleEn": "Gochuumon wa Usagi Desu ka?? - Dear My Sister -",
+              "titleKana": "ごちゅうもんはうさぎですかでぃあまいしすたー",
+              "titleRo": "Gochuumon wa Usagi Desu ka?? - Dear My Sister -",
+              "malAnimeId": "33280",
+              "syobocalTid": 5081,
+              "seasonYear": 2017,
+              "seasonName": "AUTUMN",
+              "episodesCount": 0,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay05NDEz",
+              "annictId": 9413,
+              "title": "ようこそ実力至上主義の教室へ 3rd Season",
+              "titleEn": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 3rd Season",
+              "titleKana": "ようこそじつりょくしゅぎのきょうしつへ",
+              "titleRo": "",
+              "malAnimeId": "51180",
+              "syobocalTid": 6888,
+              "seasonYear": 2024,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay03OTcz",
+              "annictId": 7973,
+              "title": "探偵はもう、死んでいる。",
+              "titleEn": "Tantei wa Mou, Shindeiru.",
+              "titleKana": "たんていはもうしんでいる",
+              "titleRo": "",
+              "malAnimeId": "46471",
+              "syobocalTid": 6032,
+              "seasonYear": 2021,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01MzQ5",
+              "annictId": 5349,
+              "title": "citrus【シトラス】",
+              "titleEn": "Citrus",
+              "titleKana": "しとらす",
+              "titleRo": "Citrus",
+              "malAnimeId": "34382",
+              "syobocalTid": 4763,
+              "seasonYear": 2018,
+              "seasonName": "WINTER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMzg5NA==",
+              "annictId": 13894,
+              "title": "Re:ゼロから始める異世界生活 3rd season 反撃編",
+              "titleEn": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season Part 2",
+              "titleKana": "りぜろからはじめるいせかいせいかつ さーどしーずん はんげきへん",
+              "titleRo": "",
+              "malAnimeId": "54857",
+              "syobocalTid": 7236,
+              "seasonYear": 2025,
+              "seasonName": "WINTER",
+              "episodesCount": 8,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02NjY0",
+              "annictId": 6664,
+              "title": "安達としまむら",
+              "titleEn": "Adachi to Shimamura",
+              "titleKana": "あだちとしまむら",
+              "titleRo": "",
+              "malAnimeId": "39790",
+              "syobocalTid": 5747,
+              "seasonYear": 2020,
+              "seasonName": "AUTUMN",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0yOTU0",
+              "annictId": 2954,
+              "title": "ひぐらしのなく頃に礼",
+              "titleEn": "Higurashi no Naku Koro ni Rei",
+              "titleKana": "ひぐらしのなくころにれい",
+              "titleRo": "Higurashi no Naku Koro ni Rei",
+              "malAnimeId": "3652",
+              "syobocalTid": 1947,
+              "seasonYear": 2009,
+              "seasonName": "WINTER",
+              "episodesCount": 5,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay03NzA1",
+              "annictId": 7705,
+              "title": "鬼滅の刃 那田蜘蛛山編",
+              "titleEn": "Kimetsu no Yaiba",
+              "titleKana": "きめつのやいばなたぐもやまへん",
+              "titleRo": "",
+              "malAnimeId": null,
+              "syobocalTid": null,
+              "seasonYear": 2020,
+              "seasonName": "AUTUMN",
+              "episodesCount": 0,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MzQy",
+              "annictId": 4342,
+              "title": "櫻子さんの足下には死体が埋まっている",
+              "titleEn": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+              "titleKana": "さくらこさんのあしもとにはしたいがうまっている",
+              "titleRo": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+              "malAnimeId": "30187",
+              "syobocalTid": 3911,
+              "seasonYear": 2015,
+              "seasonName": "AUTUMN",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNDEzMA==",
+              "annictId": 14130,
+              "title": "【推しの子】第3期",
+              "titleEn": "\"Oshi no Ko\" 3rd Season",
+              "titleKana": "おしのこ",
+              "titleRo": "",
+              "malAnimeId": "60058",
+              "syobocalTid": 7689,
+              "seasonYear": 2026,
+              "seasonName": "WINTER",
+              "episodesCount": 11,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0zOTgz",
+              "annictId": 3983,
+              "title": "極黒のブリュンヒルデ",
+              "titleEn": "Gokukoku no Brynhildr",
+              "titleKana": "ごくこくのぶりゅんひるで",
+              "titleRo": "Gokukoku no Brynhildr Special",
+              "malAnimeId": "21431",
+              "syobocalTid": 3329,
+              "seasonYear": 2014,
+              "seasonName": "SPRING",
+              "episodesCount": 14,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01NzA5",
+              "annictId": 5709,
+              "title": "こみっくがーるず",
+              "titleEn": "Comic Girls",
+              "titleKana": "こみっくがーるず",
+              "titleRo": "",
+              "malAnimeId": "35756",
+              "syobocalTid": 4852,
+              "seasonYear": 2018,
+              "seasonName": "SPRING",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay03MDQ3",
+              "annictId": 7047,
+              "title": "スライム倒して300年、知らないうちにレベルMAXになってました",
+              "titleEn": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+              "titleKana": "すらいむたおしてさんびゃくねんしらないうちにれべるまっくすになってました",
+              "titleRo": "",
+              "malAnimeId": "40586",
+              "syobocalTid": 5935,
+              "seasonYear": 2021,
+              "seasonName": "SPRING",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02NTI5",
+              "annictId": 6529,
+              "title": "ソウナンですか？",
+              "titleEn": "Sounan Desu ka?",
+              "titleKana": "そうなんですか",
+              "titleRo": "",
+              "malAnimeId": "39456",
+              "syobocalTid": 5356,
+              "seasonYear": 2019,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MzU=",
+              "annictId": 435,
+              "title": "学園黙示録 HIGHSCHOOL OF THE DEAD",
+              "titleEn": "Highschool of the Dead",
+              "titleKana": "がくえんもくしろくはいすくーるおぶざでっど",
+              "titleRo": "Highschool of the Dead",
+              "malAnimeId": "8074",
+              "syobocalTid": 1968,
+              "seasonYear": 2010,
+              "seasonName": "SUMMER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay04MDI0",
+              "annictId": 8024,
+              "title": "ひぐらしのなく頃に卒",
+              "titleEn": "Higurashi no Naku Koro ni Sotsu",
+              "titleKana": "ひぐらしのなくころにそつ",
+              "titleRo": "",
+              "malAnimeId": "48488",
+              "syobocalTid": 6037,
+              "seasonYear": 2021,
+              "seasonName": "SUMMER",
+              "episodesCount": 15,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNDEy",
+              "annictId": 1412,
+              "title": "To LOVEる",
+              "titleEn": "",
+              "titleKana": "とらぶる",
+              "titleRo": "",
+              "malAnimeId": "3455",
+              "syobocalTid": 1352,
+              "seasonYear": 2008,
+              "seasonName": "SPRING",
+              "episodesCount": 26,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNDEz",
+              "annictId": 1413,
+              "title": "To LOVEる-とらぶる- ダークネス",
+              "titleEn": "",
+              "titleKana": "とらぶるだーくねす",
+              "titleRo": "",
+              "malAnimeId": "13663",
+              "syobocalTid": 2705,
+              "seasonYear": 2012,
+              "seasonName": "AUTUMN",
+              "episodesCount": 24,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MTk3",
+              "annictId": 4197,
+              "title": "天体のメソッド",
+              "titleEn": "Sora no Method",
+              "titleKana": "そらのめそっど",
+              "titleRo": "Sora no Method",
+              "malAnimeId": "23209",
+              "syobocalTid": 3505,
+              "seasonYear": 2014,
+              "seasonName": "AUTUMN",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00OTky",
+              "annictId": 4992,
+              "title": "BanG Dream!",
+              "titleEn": "BanG Dream!",
+              "titleKana": "ばんどり",
+              "titleRo": "",
+              "malAnimeId": "33573",
+              "syobocalTid": 4411,
+              "seasonYear": 2017,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02Mzcw",
+              "annictId": 6370,
+              "title": "荒ぶる季節の乙女どもよ。",
+              "titleEn": "Araburu Kisetsu no Otome-domo yo.",
+              "titleKana": "あらぶるきせつのおとめどもよ",
+              "titleRo": "",
+              "malAnimeId": "38753",
+              "syobocalTid": 5358,
+              "seasonYear": 2019,
+              "seasonName": "SUMMER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02MzI2",
+              "annictId": 6326,
+              "title": "手品先輩",
+              "titleEn": "Tejina-senpai",
+              "titleKana": "てじなせんぱい",
+              "titleRo": "",
+              "malAnimeId": "38610",
+              "syobocalTid": 5355,
+              "seasonYear": 2019,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNjIy",
+              "annictId": 1622,
+              "title": "ハイスクールD×D",
+              "titleEn": "High School DxD",
+              "titleKana": "はいすくーるでぃーでぃー",
+              "titleRo": "High School DxD",
+              "malAnimeId": "11617",
+              "syobocalTid": 2366,
+              "seasonYear": 2012,
+              "seasonName": "WINTER",
+              "episodesCount": 14,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMzU4MQ==",
+              "annictId": 13581,
+              "title": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
+              "titleEn": "Kimetsu no Yaiba Movie: Mugen Jou-hen Part 1",
+              "titleKana": "げきじょうばんきめつのやいばむげんじょうへんだいいっしょうあかざさいらい",
+              "titleRo": "",
+              "malAnimeId": "59192",
+              "syobocalTid": null,
+              "seasonYear": 2025,
+              "seasonName": "SUMMER",
+              "episodesCount": 0,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02MDQ0",
+              "annictId": 6044,
+              "title": "殺戮の天使",
+              "titleEn": "Satsuriku no Tenshi",
+              "titleKana": "さつりくのてんし",
+              "titleRo": "",
+              "malAnimeId": "35994",
+              "syobocalTid": 4977,
+              "seasonYear": 2018,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMDU3OA==",
+              "annictId": 10578,
+              "title": "魔法少女にあこがれて",
+              "titleEn": "Mahou Shoujo ni Akogarete",
+              "titleKana": "まほうしょうじょにあこがれて",
+              "titleRo": "",
+              "malAnimeId": "54722",
+              "syobocalTid": 6897,
+              "seasonYear": 2024,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNDczMw==",
+              "annictId": 14733,
+              "title": "わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）",
+              "titleEn": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+              "titleKana": "わたしがこいびとになれるわけないじゃんむりむりむりじゃなかった",
+              "titleRo": "",
+              "malAnimeId": "60326",
+              "syobocalTid": 7502,
+              "seasonYear": 2025,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay03ODQx",
+              "annictId": 7841,
+              "title": "鬼滅の刃 柱合会議・蝶屋敷編",
+              "titleEn": "Kimetsu no Yaiba",
+              "titleKana": "きめつのやいばちゅうごうかいぎちょうやしきへん",
+              "titleRo": "",
+              "malAnimeId": null,
+              "syobocalTid": null,
+              "seasonYear": 2020,
+              "seasonName": "AUTUMN",
+              "episodesCount": 0,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNTc4Nw==",
+              "annictId": 15787,
+              "title": "Re:ゼロから始める異世界生活 4th season 喪失編",
+              "titleEn": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+              "titleKana": "りぜろからはじめるいせかいせいかつ ふぉーすしーずん そうしつへん",
+              "titleRo": "",
+              "malAnimeId": "61316",
+              "syobocalTid": 7780,
+              "seasonYear": 2026,
+              "seasonName": "SPRING",
+              "episodesCount": 11,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMDM3NA==",
+              "annictId": 10374,
+              "title": "ひきこまり吸血姫の悶々",
+              "titleEn": "Hikikomari Kyuuketsuki no Monmon",
+              "titleKana": "ひきこまりきゅうけつきのもんもん",
+              "titleRo": "",
+              "malAnimeId": "54103",
+              "syobocalTid": 6825,
+              "seasonYear": 2023,
+              "seasonName": "AUTUMN",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MzA1",
+              "annictId": 4305,
+              "title": "To LOVEる -とらぶる- ダークネス2nd",
+              "titleEn": "To LOVE-Ru Darkness 2nd",
+              "titleKana": "とらぶるだーくねすせかんど",
+              "titleRo": "To LOVE-Ru Darkness 2nd OVA",
+              "malAnimeId": "28979",
+              "syobocalTid": 3796,
+              "seasonYear": 2015,
+              "seasonName": "SUMMER",
+              "episodesCount": 18,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMDIzNQ==",
+              "annictId": 10235,
+              "title": "2.5次元の誘惑",
+              "titleEn": "2.5-jigen no Ririsa",
+              "titleKana": "にてんごじげんのりりさ",
+              "titleRo": "",
+              "malAnimeId": "53802",
+              "syobocalTid": 7124,
+              "seasonYear": 2024,
+              "seasonName": "SUMMER",
+              "episodesCount": 24,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0zOTkz",
+              "annictId": 3993,
+              "title": "悪魔のリドル",
+              "titleEn": "Akuma no Riddle",
+              "titleKana": "あくまのりどる",
+              "titleRo": "Akuma no Riddle",
+              "malAnimeId": "19429",
+              "syobocalTid": 3339,
+              "seasonYear": 2014,
+              "seasonName": "SPRING",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0zMzM3",
+              "annictId": 3337,
+              "title": "新世紀エヴァンゲリオン 劇場版 DEATH & REBIRTH  シト新生",
+              "titleEn": "Shinseiki Evangelion Movie: Shi to Shinsei",
+              "titleKana": "しんせいきえゔぁんげりおんげきじょうばんですあんどりばーすしとしんせい",
+              "titleRo": "",
+              "malAnimeId": "31",
+              "syobocalTid": null,
+              "seasonYear": 1997,
+              "seasonName": "WINTER",
+              "episodesCount": 1,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01NjQw",
+              "annictId": 5640,
+              "title": "ISLAND (アイランド)",
+              "titleEn": "Island",
+              "titleKana": "あいらんど",
+              "titleRo": "Island",
+              "malAnimeId": "33012",
+              "syobocalTid": 4954,
+              "seasonYear": 2018,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WANNA_WATCH"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01ODEz",
+              "annictId": 5813,
+              "title": "ハッピーシュガーライフ",
+              "titleEn": "Happy Sugar Life",
+              "titleKana": "はっぴーしゅがーらいふ",
+              "titleRo": "",
+              "malAnimeId": "37517",
+              "syobocalTid": 4966,
+              "seasonYear": 2018,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNTE2",
+              "annictId": 1516,
+              "title": "夏色キセキ",
+              "titleEn": "Natsu-iro Kiseki",
+              "titleKana": "なついろきせき",
+              "titleRo": "Natsu-iro Kiseki",
+              "malAnimeId": "12119",
+              "syobocalTid": 2467,
+              "seasonYear": 2012,
+              "seasonName": "SPRING",
+              "episodesCount": 14,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMDA3",
+              "annictId": 1007,
+              "title": "Strawberry Panic",
+              "titleEn": "Strawberry Panic",
+              "titleKana": "すとろべりーぱにっく",
+              "titleRo": "Strawberry Panic",
+              "malAnimeId": "855",
+              "syobocalTid": 816,
+              "seasonYear": 2006,
+              "seasonName": "SPRING",
+              "episodesCount": 26,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay03MTI=",
+              "annictId": 712,
+              "title": "COPPELION",
+              "titleEn": "Coppelion",
+              "titleKana": "こっぺりおん",
+              "titleRo": "Coppelion",
+              "malAnimeId": "9479",
+              "syobocalTid": 3184,
+              "seasonYear": 2013,
+              "seasonName": "AUTUMN",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xODQy",
+              "annictId": 1842,
+              "title": "BLOOD-C",
+              "titleEn": "Blood-C",
+              "titleKana": "ぶらっどしー",
+              "titleRo": "Blood-C",
+              "malAnimeId": "10490",
+              "syobocalTid": 2195,
+              "seasonYear": 2011,
+              "seasonName": "SUMMER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01NDk=",
+              "annictId": 549,
+              "title": "境界の彼方",
+              "titleEn": "Kyoukai no Kanata",
+              "titleKana": "きょうかいのかなた",
+              "titleRo": "Kyoukai no Kanata",
+              "malAnimeId": "18153",
+              "syobocalTid": 3163,
+              "seasonYear": 2013,
+              "seasonName": "AUTUMN",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MjQy",
+              "annictId": 4242,
+              "title": "劇場版 境界の彼方 -I'LL BE HERE-",
+              "titleEn": "",
+              "titleKana": "げきじょうばん きょうかいのかなた あいる びー ひあ",
+              "titleRo": "",
+              "malAnimeId": "25015",
+              "syobocalTid": 4093,
+              "seasonYear": 2015,
+              "seasonName": "SPRING",
+              "episodesCount": 2,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMzc3OA==",
+              "annictId": 13778,
+              "title": "境界の彼方 ミニ劇場",
+              "titleEn": "",
+              "titleKana": "きょうかいのかなたみにげきじょう",
+              "titleRo": "",
+              "malAnimeId": "20909",
+              "syobocalTid": 3163,
+              "seasonYear": 2014,
+              "seasonName": "WINTER",
+              "episodesCount": 7,
+              "viewerStatusState": "WATCHED"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
