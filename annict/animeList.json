@@ -4,8 +4,8 @@
       "username": "Guan",
       "name": "Guan",
       "annictId": 67149,
-      "watchingCount": 4,
-      "watchedCount": 148,
+      "watchingCount": 3,
+      "watchedCount": 159,
       "wannaWatchCount": 14,
       "onHoldCount": 0,
       "stopWatchingCount": 0,
@@ -393,7 +393,7 @@
               "seasonYear": 2026,
               "seasonName": "SUMMER",
               "episodesCount": 13,
-              "viewerStatusState": "WATCHING"
+              "viewerStatusState": "WATCHED"
             }
           },
           {
@@ -2665,6 +2665,182 @@
               "seasonYear": 2014,
               "seasonName": "WINTER",
               "episodesCount": 7,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay00MTY4",
+              "annictId": 4168,
+              "title": "SHIROBAKO",
+              "titleEn": "Shirobako",
+              "titleKana": "しろばこ",
+              "titleRo": "Shirobako",
+              "malAnimeId": "25835",
+              "syobocalTid": 3524,
+              "seasonYear": 2014,
+              "seasonName": "AUTUMN",
+              "episodesCount": 24,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNTY=",
+              "annictId": 156,
+              "title": "一騎当千",
+              "titleEn": "Ikkitousen",
+              "titleKana": "いっきとうせん",
+              "titleRo": "Ikkitousen",
+              "malAnimeId": "257",
+              "syobocalTid": 77,
+              "seasonYear": 2003,
+              "seasonName": "SUMMER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay05ODIz",
+              "annictId": 9823,
+              "title": "転生王女と天才令嬢の魔法革命",
+              "titleEn": "Tensei Oujyo to Tensai Reijyou no Mahou Kakumei",
+              "titleKana": "てんせいおうじょとてんさいれいじょうのまほうかくめい",
+              "titleRo": "",
+              "malAnimeId": "52736",
+              "syobocalTid": 6540,
+              "seasonYear": 2023,
+              "seasonName": "WINTER",
+              "episodesCount": 12,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02NjE4",
+              "annictId": 6618,
+              "title": "フラグタイム",
+              "titleEn": "Fragtime",
+              "titleKana": "ふらぐたいむ",
+              "titleRo": "",
+              "malAnimeId": "39545",
+              "syobocalTid": 5678,
+              "seasonYear": 2019,
+              "seasonName": "AUTUMN",
+              "episodesCount": 0,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNjUxOQ==",
+              "annictId": 16519,
+              "title": "バンドリ！ ゆめ∞みた",
+              "titleEn": "BanG Dream! Yume∞Mita",
+              "titleKana": "ばんどりゆめみた",
+              "titleRo": "",
+              "malAnimeId": "62430",
+              "syobocalTid": 7919,
+              "seasonYear": 2026,
+              "seasonName": "SUMMER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xNjQ1NA==",
+              "annictId": 16454,
+              "title": "BanG Dream! Ave Mujica prima aurora",
+              "titleEn": "BanG Dream! Ave Mujica Movie",
+              "titleKana": "ばんどり あゔぇむじか",
+              "titleRo": "",
+              "malAnimeId": "62270",
+              "syobocalTid": null,
+              "seasonYear": 2026,
+              "seasonName": "AUTUMN",
+              "episodesCount": 0,
+              "viewerStatusState": "NO_STATE"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMTEyNg==",
+              "annictId": 11126,
+              "title": "BanG Dream! Ave Mujica",
+              "titleEn": "BanG Dream! Ave Mujica",
+              "titleKana": "ばんどり あゔぇむじか",
+              "titleRo": "",
+              "malAnimeId": "56653",
+              "syobocalTid": 7272,
+              "seasonYear": 2025,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay0xMDY4Ng==",
+              "annictId": 10686,
+              "title": "BanG Dream! It's MyGO!!!!!",
+              "titleEn": "BanG Dream! It's MyGO!!!!!",
+              "titleKana": "ばんどりいっつまいごー",
+              "titleRo": "",
+              "malAnimeId": "54959",
+              "syobocalTid": 6716,
+              "seasonYear": 2023,
+              "seasonName": "SUMMER",
+              "episodesCount": 14,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02MDM5",
+              "annictId": 6039,
+              "title": "BanG Dream! 3rd Season",
+              "titleEn": "BanG Dream! 3rd Season",
+              "titleKana": "ばんどりさーどしーずん",
+              "titleRo": "",
+              "malAnimeId": "37870",
+              "syobocalTid": 5538,
+              "seasonYear": 2020,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay02MDM4",
+              "annictId": 6038,
+              "title": "BanG Dream! 2nd Season",
+              "titleEn": "BanG Dream! 2nd Season",
+              "titleKana": "ばんどりせかんどしーずん",
+              "titleRo": "",
+              "malAnimeId": "37869",
+              "syobocalTid": 5158,
+              "seasonYear": 2019,
+              "seasonName": "WINTER",
+              "episodesCount": 13,
+              "viewerStatusState": "WATCHED"
+            }
+          },
+          {
+            "work": {
+              "id": "V29yay01NDM1",
+              "annictId": 5435,
+              "title": "BanG Dream! OVA",
+              "titleEn": "BanG Dream! OVA",
+              "titleKana": "ばんどりおーぶいえー",
+              "titleRo": "BanG Dream! OVA",
+              "malAnimeId": "34870",
+              "syobocalTid": null,
+              "seasonYear": 2017,
+              "seasonName": "SUMMER",
+              "episodesCount": 1,
               "viewerStatusState": "WATCHED"
             }
           }
